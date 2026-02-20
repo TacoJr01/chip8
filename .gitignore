@@ -1,0 +1,9 @@
+chip8
+*.o
+*.out
+*.core
+core
+build/
+*.ch8
+roms/
+
